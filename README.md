@@ -3,7 +3,7 @@
 Software engineering student at **École 42 Paris**, finishing the Common Core after a first career in sales and team management.
 I like building things end to end, from low-level C and concurrency to LLM-powered tools.
 
-🔎 **Looking for an internship** starting **January 4, 2027** (4 to 6 months) · Paris or remote · open to Amsterdam
+🔎 **Looking for an internship** starting **January 4, 2027** (6 months) · Paris or remote · open to Amsterdam
 
 ### Tech
 
@@ -24,7 +24,7 @@ I like building things end to end, from low-level C and concurrency to LLM-power
 | [**Pac-Man**](https://github.com/maxdt-git/pacman42) | Full Pac-Man with generated mazes and ghost AI | Python, Pygame |
 | [**Codexion**](https://github.com/maxdt-git/codexion) | Concurrency simulation with deadlock and starvation prevention | C, pthreads |
 
-🚧 Currently working on **ft_transcendence**: full-stack web app (React/TypeScript, Express, Prisma), where I own the notification service.
+🚧 Currently working on **ft_transcendence**: full-stack web app (React/TypeScript, Express, Prisma).
 
 ### Contact
 
