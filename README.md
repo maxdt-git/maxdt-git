@@ -8,7 +8,7 @@ I like building things end to end, from low-level C and concurrency to LLM-power
 ### Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,go,ts,react,nodejs,express,prisma,docker,linux,bash,git,github,vscode&perline=14" alt="Python, C, Go, TypeScript, React, Node.js, Express, Prisma, Docker, Linux, Bash, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,c,go,ts,html,css,react,nodejs,express,prisma,docker,linux,bash,git,github,vscode&perline=14" alt="Python, C, Go, TypeScript, HTML, CSS, React, Node.js, Express, Prisma, Docker, Linux, Bash, Git, GitHub, VS Code" />
 </p>
 
 **Interests:** LLM applications (agents, RAG, function calling), backend, systems
