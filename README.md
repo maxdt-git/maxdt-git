@@ -5,7 +5,12 @@ I like building things end to end, from low-level C and concurrency to LLM-power
 
 🔎 **Looking for an internship** starting **January 4, 2027** (4 to 6 months) · Paris or remote · open to Amsterdam
 
-**Tech:** Python · C · Go · TypeScript · React · Docker · Linux · Git
+### Tech
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,go,ts,react,nodejs,express,prisma,docker,linux,bash,git,github,vscode&perline=14" alt="Python, C, Go, TypeScript, React, Node.js, Express, Prisma, Docker, Linux, Bash, Git, GitHub, VS Code" />
+</p>
+
 **Interests:** LLM applications (agents, RAG, function calling), backend, systems
 
 ### Featured projects
@@ -21,4 +26,7 @@ I like building things end to end, from low-level C and concurrency to LLM-power
 
 🚧 Currently working on **ft_transcendence**: full-stack web app (React/TypeScript, Express, Prisma), where I own the notification service.
 
-📫 maxdenasdetourris@gmail.com · [LinkedIn](https://www.linkedin.com/in/maxdenasdetourris/)
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdenasdetourris/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxdenasdetourris@gmail.com)
