@@ -24,6 +24,13 @@ I like building things end to end, from low-level C and concurrency to LLM-power
 | [**Pac-Man**](https://github.com/maxdt-git/pacman) | Full Pac-Man with generated mazes and ghost AI | Python, Pygame |
 | [**Pthread Scheduler**](https://github.com/maxdt-git/pthread-scheduler) | Concurrency simulation with deadlock and starvation prevention | C, pthreads |
 
+### More projects
+
+- **Algorithms:** [Drone Routing](https://github.com/maxdt-git/drone-routing) (Dijkstra, k-shortest paths) · [Stack Sort](https://github.com/maxdt-git/stack-sort) (two-stack sorting, radix sort) · [Maze Generator](https://github.com/maxdt-git/maze-generator) (Python package)
+- **C from scratch:** [C Library](https://github.com/maxdt-git/c-library) (libc reimplementation) · [printf Clone](https://github.com/maxdt-git/printf-clone) · [Line Reader](https://github.com/maxdt-git/line-reader) · [Terminal Snake](https://github.com/maxdt-git/terminal-snake)
+- **LLM:** [Constrained Decoding](https://github.com/maxdt-git/constrained-decoding) (function calling with a small local model)
+- **Practice:** [Python Exercises](https://github.com/maxdt-git/python-exercises) · [C Bootcamp](https://github.com/maxdt-git/c-bootcamp)
+
 🚧 Currently building a **full-stack web app** (React/TypeScript, Express, Prisma).
 
 ### Contact
