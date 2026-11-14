@@ -3,7 +3,7 @@
 Software engineering student at **École 42 Paris**, finishing the Common Core after a first career in sales and team management.
 I like building things end to end, from low-level C and concurrency to LLM-powered tools.
 
-🔎 **Looking for an internship** starting **January 4, 2027** (6 months) · Paris or remote · open to Amsterdam
+🔎 **Looking for an internship** starting **January 4, 2027** (6 months) · Paris or remote · 
 
 ### Tech
 
