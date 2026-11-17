@@ -17,6 +17,7 @@ I like building things end to end, from low-level C and concurrency to LLM-power
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**PairMock**](https://github.com/maxdt-git/pairmock) | Peer-to-peer mock interview platform: slot booking, live collaborative code editor, AI code review, analytics. Team of 4, I built the notification system and the analytics dashboard | React, TypeScript, Express, Prisma, WebSocket |
 | [**Code Agent**](https://github.com/maxdt-git/code-agent) | Code agent built from scratch, 3/3 on the evaluated SWE-bench Verified tasks, 19/20 on MBPP | Python, Docker, MCP |
 | [**Codebase RAG**](https://github.com/maxdt-git/codebase-rag) | Question answering over a codebase, recall@5 of 0.86 on docs | Python, BM25, Transformers |
 | [**TicketPipe**](https://github.com/maxdt-git/ticketpipe) | Hackathon project: turns screen activity into precise IT tickets | TypeScript, Bun, LLM |
@@ -30,8 +31,6 @@ I like building things end to end, from low-level C and concurrency to LLM-power
 - **C from scratch:** [C Library](https://github.com/maxdt-git/c-library) (libc reimplementation) · [printf Clone](https://github.com/maxdt-git/printf-clone) · [Line Reader](https://github.com/maxdt-git/line-reader) · [Terminal Snake](https://github.com/maxdt-git/terminal-snake)
 - **LLM:** [Constrained Decoding](https://github.com/maxdt-git/constrained-decoding) (function calling with a small local model)
 - **Practice:** [Python Exercises](https://github.com/maxdt-git/python-exercises) · [C Bootcamp](https://github.com/maxdt-git/c-bootcamp)
-
-🚧 Currently building a **full-stack web app** (React/TypeScript, Express, Prisma).
 
 ### Contact
 
