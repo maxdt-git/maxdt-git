@@ -3,12 +3,12 @@
 Software engineering student at **École 42 Paris**, Common Core completed, after a first career in sales and team management.
 I like building things end to end, from low-level C and concurrency to full-stack web apps and LLM-powered tools.
 
-🚀 **Just shipped [PairMock](https://github.com/maxdt-git/pairmock)** (ft_transcendence): a full-stack mock interview platform built in a team of 4, where I owned the real-time notification system, back and front.
+🚀 **Just shipped [PairMock](https://github.com/maxdt-git/pairmock)** (ft_transcendence): a full-stack mock interview platform built in a team of 4.
 
 🔎 **Looking for a Software Engineer internship**
 - **Role:** backend, full-stack or LLM/AI engineering
 - **Start:** January 4, 2027 · **Duration:** 4 to 6 months
-- **Location:** Paris or Amsterdam
+- **Location:** Paris
 - **What I want:** ship real features on a product used by real people, in a team that cares about code review and good engineering practices
 
 📫 Open to opportunities: reach out on [LinkedIn](https://www.linkedin.com/in/maxdenasdetourris/) or by [email](mailto:maxdenasdetourris@gmail.com).
